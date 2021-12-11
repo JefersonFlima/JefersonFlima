@@ -1,4 +1,4 @@
-### Ola,eu sou Jeferson,seja bem vindo 
+### Ola,eu sou Jeferson,atualmente estou desempregado em busca da primeira oportunidade de emprego na area de T.I
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/38568439/145658354-ba667f03-1e9d-46fc-a82c-d6ee0ab5707a.gif)
 
 
@@ -8,6 +8,7 @@
 
 ![Jeferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonFlima&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFlima)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
