@@ -1,5 +1,5 @@
-### Ola,eu sou Jeferson,atualmente estou desempregado em busca da primeira oportunidade de emprego na area de T.I
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/38568439/145658354-ba667f03-1e9d-46fc-a82c-d6ee0ab5707a.gif)
+### Bem vindo ao perfil de Jeferson
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38568439/145659885-c7f3940f-312e-4fec-9ed1-9b734104ae74.gif)
 
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-fagundes)
@@ -24,3 +24,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+<br>
