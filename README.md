@@ -1,4 +1,6 @@
-### Bem vindo ao perfil de Jeferson
+### Ola,sou Jeferson,tenho 19 anos,atualmente desempregado em busca do primeiro emprego na área de T.I
+Seja bem-vindo(a)
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38568439/145659885-c7f3940f-312e-4fec-9ed1-9b734104ae74.gif)
 
 
